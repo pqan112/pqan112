@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Fullstack Developer with **4+ years** of experience building enterprise web apps across **retail, analytics, SaaS, and e-commerce**
-- ⚡ Hands-on across the full stack — **React / Next.js / TypeScript** on the frontend, **NestJS / FastAPI / PostgreSQL** on the backend
+- ⚡ Hands-on across the full stack — **React / Next.js / TypeScript** on the frontend, **NestJS / PostgreSQL** on the backend
 - 🤖 Recently focused on integrating **AI-powered features** into production — RAG pipelines, LLM integration, AWS Bedrock
 - 🛠️ Big believer in **AI-assisted development** — using Claude Code & Cursor daily to ship faster without cutting corners
 - 🌱 Currently deepening my knowledge of scalable backend architecture (microservices, gRPC, event-driven systems)
@@ -40,7 +40,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
